@@ -1,0 +1,114 @@
+.header{
+	width:100%;
+	margin: 0px;
+	height: 30px;
+	right:0%;
+	position: fixed;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  
+}
+.menu {
+  float: right;
+}
+
+.menu a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4px 20px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #F95738;
+}
+h2
+{
+margin-top: 15px;
+margin-left: 0%;
+margin-right:520px;
+color: white;
+text-align:center;
+text-positon: right;
+
+}
+.footer {
+   position: fixed;
+   left: 0%;
+   bottom: 0;
+   width: 100%;
+   background-color: #333333;
+   color: white;
+   text-align: center;
+}
+img
+{
+margin-top: 40px;
+left:0%;
+right:0%;
+}
+.container9
+{
+	margin-left: 125px;
+	height: 1000px;
+}
+.tableaboutme{
+     
+
+	margin-left: 115px;
+}
+th, td{
+	border: 2px solid black;
+	padding: 5px;
+	
+}
+p::selection{
+	color: red;
+	background-color: yellow;
+}
+
+
+form
+{
+	padding-left: 60px;
+	padding-right: 50%;
+
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 30px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 30%;
+  background-color: #F95638;
+  color: white;
+  padding: 12px 30px;
+  margin: 50px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.box5
+{
+	margin-top: 0px;
+	margin-left: 30px;
+}
+ 
+ .alert{ 
+ 	margin: 20px;
+ 	width: 40%;
+ }
