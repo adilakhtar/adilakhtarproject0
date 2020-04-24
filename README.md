@@ -15,7 +15,3 @@ I have added image.
 I have used bootstrap 4 and have used components.
 
 I have uploades all these file on github.
-
-Git hub user name: adilakhtar
-
-this is my url: https://adilakhtar.github.io/adilakhtarproject0/index.html
